@@ -1,44 +1,49 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<header>
+  <h1 align="center">
+    Github Explorer
+  </h1>
+  <p align="center">Explore os repositórios Github com o aplicação Github Explorer.</p>
+  <p align="center">
+    <a href="https://reactjs.org/" rel="nofollow">
+        <img src="https://camo.githubusercontent.com/2fa18e428de4a1b7917b25f79b23633301dc152b/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d5265616374266d6573736167653d4a5326636f6c6f723d626c75653f7374796c653d706c6173746963266c6f676f3d5265616374" alt="ReactJS" data-canonical-src="https://img.shields.io/static/v1?label=React&amp;message=JS&amp;color=blue?style=plastic&amp;logo=React" style="max-width:100%;">
+    </a>
+  </p>
+  <p align="center">
+    <img src="" />
+  </p>
+  </header>
 
-## Available Scripts
+ <main>
+   <p align="center">
+    <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Layout">Layout</a>
+  </p>
 
-In the project directory, you can run:
+  <h1>Sobre</h1>
+  <p>Github Explorer é um aplicação web para pesquisar reposítorios no github, utilizando a API do Github e salva-la em uma lista.</p>
 
-### `yarn start`
+  <h1>Instalação</h1>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  ``` bash
+  # clonar o repositório
+  git clone
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  # Instalar as dependência
+  yarn
 
-### `yarn test`
+  # Iniciar a aplicação
+  yarn start
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ```
+  <h1>Layout</h1>
+    <p>
+      <a href="https://www.figma.com/file/HOCmxfrElzLpI75LdzFLia/Github-Explorer?node-id=7%3A1027">Link Project.</a>
+    </p>
 
-### `yarn build`
+  <p style="margin-top: 50px">
+    <h6>Desafio feito pela <a href="https://rocketseat.com.br/" target="_blank">RocketSeat.</a></h6>
+  </p>
+ </main>
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
