@@ -14,12 +14,6 @@
   </header>
 
  <main>
-   <p align="center">
-    <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Instalação">Instalação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#Layout">Layout</a>
-  </p>
-
   <h1>Sobre</h1>
   <p>Github Explorer é um aplicação web para pesquisar reposítorios no github, utilizando a API do Github e salva-la em uma lista.</p>
 
