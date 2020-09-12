@@ -9,7 +9,7 @@
     </a>
   </p>
   <p align="center">
-    <img src="" />
+    <img src="https://github.com/nivaldoandrade/github-explorer/blob/master/assetsReadme/Capa.png" />
   </p>
   </header>
 
@@ -27,7 +27,7 @@
 
   ``` bash
   # clonar o repositório
-  git clone
+  git clone https://github.com/nivaldoandrade/github-explorer
 
   # Instalar as dependência
   yarn
